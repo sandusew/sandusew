@@ -1,4 +1,6 @@
-<p align="center" > <img src="https://plus.unsplash.com/premium_photo-1683121716061-3faddf4dc504?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8dGVjaHxlbnwwfHwwfHx8MA%3D%3D" alt="IT Tech" width="200px" height="150px" /> </p>
+<p align="center">
+  <img src="https://tippie.uiowa.edu/sites/tippie.uiowa.edu/files/2022-06/linkedinheaders-desktop.jpg" alt="Another Banner" width="650px" height="150px" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Sanduni Sewmini</h1>
 <h3 align="center">A passionate IT Student.| I always to be Me.</h3>
