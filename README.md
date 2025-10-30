@@ -22,16 +22,26 @@
   &nbsp;Github Stats
 </h3>
 
+<p>
+  <a href="https://github.com/sandusew">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandusew&theme=tokyonight"/>
+  </a>
+</p>
+
+
 <!-- GIF on the right -->
 <p>
   <img align="right" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="300"/>
 </p>
+<br><br><br>
 
 <!-- stats details -->
-![Sanduni's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandusew&show_icons=true&theme=tokyonight)
-<br><br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandusew&layout=compact&theme=tokyonight)
-
+<br><br><br>
+<p align="left">
+  <a href="https://github.com/sandusew">
+    <img src="https://github-readme-stats.vercel.app/api?username=sandusew&show_icons=true&locale=en&theme=tokyonight" width="410"/>
+  </a>
+</p>
 
 -------------
 
