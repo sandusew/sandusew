@@ -7,11 +7,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandusew&label=Profile%20views&color=0e75b6&style=flat" alt="sandusew" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **project Mnagement**
 
 - 👨‍💻 I’m an Undergraduate at SLIIT
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **PM**
 
 - 📫 How to reach me **sanukisewmini1203@gmail.com**
 
